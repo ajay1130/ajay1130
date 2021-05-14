@@ -3,10 +3,11 @@
 
 ## I'm a Developer !!
 
-- I have recently completed MCA
-- I have developed website , application & software
+- I am developer and i have developed website, application & software
 - I’m fast learner
+- Passionate in coding
 - 2021 Goals: Contribute more to Open Source projects
+
 
 <br />
 
