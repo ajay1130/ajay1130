@@ -3,7 +3,7 @@
 
 ## I'm a Developer !!
 
-- I am developer and i have developed website, application & software
+- I'm developer & i have done project for website, app & software
 - I’m fast learner
 - Passionate in coding
 - 2021 Goals: Contribute more to Open Source projects
