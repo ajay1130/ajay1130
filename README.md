@@ -5,7 +5,7 @@
 
 - I have recently completed MCA
 - I have developed website , application & software
-- I’m looking to collaborate with other content creators
+- I’m fast learner
 - 2021 Goals: Contribute more to Open Source projects
 
 
