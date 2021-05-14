@@ -7,8 +7,7 @@
 - I have developed website , application & software
 - I’m fast learner
 - 2021 Goals: Contribute more to Open Source projects
-
-
+- 
 <br />
 
 ### Languages and Tools that i have used:
